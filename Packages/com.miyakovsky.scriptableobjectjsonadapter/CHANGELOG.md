@@ -6,6 +6,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [1.0.0] - 2026-01-11
 
-### This is the first release of *\<ScriptableObjectJsonAdapter\>*.
-
-*Short description of this release*
+This is the first release of *\<ScriptableObjectJsonAdapter\>*.
