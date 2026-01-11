@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="Miyakovsky.ScriptableObjectJsonAdpater.csproj" />
+  <Project Path="Miyakovsky.ScriptableObjectJsonAdpater.Editor.csproj" />
+</Solution>
